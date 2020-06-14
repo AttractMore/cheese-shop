@@ -4,6 +4,6 @@ id = "FARMHOUSE_CHEDDAR"
 image = "/images/cheddar.jpg"
 name = "Farmhouse Cheddar"
 price = 4.95
-product_url = "cheese-shop-.netlify.app"
+product_url = "cheese-shop.netlify.app"
 
 +++
