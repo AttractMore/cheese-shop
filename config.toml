@@ -1,3 +1,7 @@
 baseURL = "https://cheese-shop.netlify.app/"
 languageCode = "en-gb"
 title = "My New Hugo Site"
+
+[params]
+snipcart_test_api_key = "YzJhYmIxOGEtMWI2YS00ZTc2LWE5YWEtZjM5YTFkMzUyMDNhNjM3MjczMjI3OTY5OTEzNzg0"
+snipcart_live_api_key = ""
