@@ -17,7 +17,7 @@ collections:
    fields:
    - {label: id, name: id, widget: string}
    - {label: name, name: name, widget: string}
-   - {label: price, name: price, widget: number, default: 0}
+   - {label: price, name: price, widget: number, valueType: float, default: 0}
    - {label: description, name: description, widget: text}
    - {label: image, name: image, widget: string}
    - {label: product_url, name: product_url, widget: string}
