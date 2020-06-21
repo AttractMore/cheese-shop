@@ -14,14 +14,12 @@ collections:
    label: Products
    folder: "content/products"
    create: true
-   slug: {{title}}
    fields:
-   - {label: id, name: id, widget: string}
-   - {label: name, name: name, widget: string}
-   - {label: title, name: title, widget: string}
-   - {label: price, name: price, widget: number, valueType: float, default: 0}
-   - {label: description, name: description, widget: text}
-   - {label: image, name: image, widget: string}
-   - {label: product_url, name: product_url, widget: string}
+   - {label: "id", name: "id", widget: "string"}
+   - {label: "name", name: "title", widget: "string"}
+   - {label: "price", name: "price", widget: "number", valueType: "float", default: 0}
+   - {label: "description", name: "description", widget: "text"}
+   - {label: "image", name: "image", widget: "string"}
+   - {label: "product_url", name: "product_url", widget: "string"}
    
    
