@@ -1,7 +1,7 @@
 ---
 id: CHEESE_SELECTION
 name: Cheese Selecltion
-title: cheese-selection
+title: Cheese Selection
 price: 129.99
 description: Super fattening
 image: /images/cheese-selection.jpg
