@@ -16,10 +16,9 @@ collections:
    create: true
    fields:
    - {label: "id", name: "id", widget: "string"}
-   - {label: "name", name: "title", widget: "string"}
+   - {label: "Title", name: "title", widget: "string"}
    - {label: "price", name: "price", widget: "number", valueType: "float", default: 0}
    - {label: "description", name: "description", widget: "text"}
-   - {label: "image", name: "image", widget: "string"}
    - {label: "Product image", name: "product_image", widget: image}
    - {label: "product_url", name: "product_url", widget: "string"}
    
